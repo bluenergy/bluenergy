@@ -1,0 +1,4 @@
+= Sunny Saturday
+
+:hp-tags: life
+This is my new blog post.
